@@ -1,7 +1,6 @@
 # WeatherMVVMFinal
 
 #TBD <br />
-Prompt user for city name <br />
 Change colors in the UI 
 
 
